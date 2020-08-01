@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+# Hello World,
+
+<a href="https://linkedin.com/in/arunjohnson">
+  <img align="left" alt="Arun Johnson - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
+</a>
+<br />
+<br />
+
 - 🔭 I’m currently working on data science exploratory analaysis and machine learning
 
 <!--
